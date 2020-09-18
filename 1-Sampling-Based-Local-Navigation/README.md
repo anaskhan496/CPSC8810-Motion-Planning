@@ -1,10 +1,8 @@
-CPSC 8810 - Motion Planning
-Assignment 1: Sampling-Based Local Navigation
+# Assignment 1: Sampling-Based Local Navigation
 Submitted by: Ashit Mohanty, Mohammad Anas Imam Khan
 Date of submission: 01-26-2020 
 
-Programming variables:
-
+## Programming variables:
 Global objects:
 1) np : object of numpy class
 2) mat_plot : object of the matplotlib.pyplot class
@@ -27,3 +25,6 @@ Local variables for computeNewVelocity function
 15) fitting function : Evaluating the fitness of each of the N candidate velocities
 16) ttc : Calculates the time to collision
 17) min_cost_vel : The candidate velocity that has the minimum cost
+
+## Instructions 
+To run the program: `python agent.py`
