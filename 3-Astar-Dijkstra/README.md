@@ -2,11 +2,10 @@
 
 Code submitted by Mohammad Anas Imam Khan (C17566828) and Ashit Mohanty (C13582787)
 
-1. astar.py:Code for A* Algorithm. 
+## 1. astar.py: Code for A* Algorithm. 
 RESULTS:
 
-cost = [1,1,1], 
-Giving equal weightage to right, front and left actions respectively.
+cost = [1,1,1], Giving equal weightage to right, front and left actions respectively.
 
 
 ['-', '-', '-', '-', '-', '-']
