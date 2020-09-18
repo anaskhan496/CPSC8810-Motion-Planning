@@ -1,4 +1,4 @@
-Project 03: Discrete Planning
+# Project 03: Discrete Planning
 
 Code submitted by Mohammad Anas Imam Khan (C17566828) and Ashit Mohanty (C13582787)
 
@@ -19,6 +19,7 @@ Giving equal weightage to right, front and left actions respectively.
 
 ['-', '-', '-', 'F', '-', '-']
 
+- - - -
 Expanded Nodes
 (4,3,0)
 
@@ -32,6 +33,7 @@ Expanded Nodes
 
 (2,0,1)
 
+- - - -
 cost = [1, 1, 10], Penalizing left(then forward) action
 
 ['-', '-', '-', 'R', 'F', 'R']
@@ -43,7 +45,7 @@ cost = [1, 1, 10], Penalizing left(then forward) action
 ['-', '-', '-', 'F', '-', '-']
 
 ['-', '-', '-', 'F', '-', '-']
-
+- - - -
 Expanded Nodes
 (4, 3, 0)
 
@@ -76,7 +78,7 @@ Expanded Nodes
 (2, 1, 1)
 
 (2, 0, 1)
-
+- - - -
 cost = [10, 1, 1]: Penalizing right(then forward) action of the car
 
 ['-', '-', '-', '-', '-', '-']
@@ -89,7 +91,7 @@ cost = [10, 1, 1]: Penalizing right(then forward) action of the car
 
 ['-', '-', '-', 'F', '-', '-']
 
-
+- - - -
 Expanded Nodes
 (4, 3, 0)
 
@@ -119,7 +121,7 @@ cost = [1, 1, 1]:
 ['-', '-', '-', 'F', '-', '-']
 
 ['-', '-', '-', 'F', '-', '-']
-
+- - - -
 Expanded Nodes
 (4, 3, 0)
 
@@ -144,7 +146,7 @@ Expanded Nodes
 (0, 4, 3)
 
 (2, 0, 1)
-
+- - - -
 cost = [1, 1, 10]:
 
 ['-', '-', '-', 'R', 'F', 'R']
@@ -156,7 +158,7 @@ cost = [1, 1, 10]:
 ['-', '-', '-', 'F', '-', '-']
 
 ['-', '-', '-', 'F', '-', '-']
-
+- - - -
 Expanded Nodes
 (4, 3, 0)
 
@@ -190,7 +192,7 @@ Expanded Nodes
 
 (2, 0, 1)
 
-
+- - - -
 cost = [10, 1, 1]:
 
 ['-', '-', '-', '-', '-', '-']
@@ -202,9 +204,7 @@ cost = [10, 1, 1]:
 ['-', '-', '-', 'F', '-', '-']
 
 ['-', '-', '-', 'F', '-', '-']
-
-
-
+- - - -
 Expanded Nodes
 (4, 3, 0)
 
