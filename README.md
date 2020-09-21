@@ -20,3 +20,6 @@ Assignments of the motion planning course at Clemson
 
 ## [Probabilistic Road Map Planning](https://rb.gy/ig8ton)
 ![](https://github.com/anaskhan496/CPSC8810-Motion-Planning/blob/master/4-Probabilistic-Road-Map-Planner/p4-prm.gif)
+
+## [Final Project - PATH PLANNING FOR TURTLEBOT USING RRT*](https://github.com/anaskhan496/CPSC8810-Motion-Planning/tree/master/5-Final-Project-RRTstar-Turtlebot)
+![RRT* Turtlebot](https://github.com/anaskhan496/CPSC8810-Motion-Planning/blob/master/5-Final-Project-RRTstar-Turtlebot/rrtstar-turtlebot.gif)
