@@ -1,10 +1,9 @@
-# Programming Assignment 2 - Local Navigation Forces
-
+Subject: CPSC8810 Motion Planning
 Date: 02/09/2020
 Submission done by: Mohammad Anas Imam Khan (C17566828) and Ashit Mohanty (C13582787)
+Programming Assignment 2 - Local Navigation Forces
 
-
-## Basic Requirements:
+Basic Requirements:
 1.a) Force: This variable computes the goal force as well as gets added to the avoidance force when a collision between the agent and its neighbours is imminent.
 
 1.b) i: This will loop through all the agents 
@@ -23,7 +22,7 @@ n = Unit vector of avoidance force
 
 3. eps - Velocity uncertainty constant
 
-## Extra credits:
+Extra credits:
 
 1) m: magnitude
 tau_not: Exponential cut-off point
